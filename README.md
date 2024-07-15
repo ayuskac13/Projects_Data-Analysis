@@ -36,6 +36,4 @@ This project implements an AI-powered mental fitness tracker designed to help us
     python AI_mental_fitness_tracker.ipynb
     ```
 
-## Visualization of data
-
- pandas, matplotlib
+## Visualization and prediction based on the data
